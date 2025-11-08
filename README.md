@@ -37,6 +37,7 @@ license: mit
 ## 배포 정보
 
 이 프로젝트는 Hugging Face Spaces에 배포되어 있습니다.
+https://huggingface.co/spaces/devmeta/web3_ownership_proof3
 
 ## 라이선스
 
